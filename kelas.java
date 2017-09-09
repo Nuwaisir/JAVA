@@ -1,3 +1,5 @@
+/**************************code for diamond shaped numbers(increament from the middle column)**********************/
+
 import java.util.Scanner;
 import java.util.Random;
 
